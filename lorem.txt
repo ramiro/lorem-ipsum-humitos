@@ -39,8 +39,7 @@ facilisis odio, sed fermentum nibh nibh sit amet dolor. Integer nec elit
 magna. Nulla lobortis urna ante. Integer diam orci, rhoncus eu fermentum sit
 amet, luctus ac mauris. Integer vitae velit sapien. Duis augue odio, rhoncus
 consectetur porta quis, consequat id nunc. Proin placerat ac lorem id
-vehicula. Curabitur scelerisque euismod molestie. Nulla iaculis sapien
-gravida, hendrerit massa eu, dignissim arcu.
+vehicula. Curabitur scelerisque euismod molestie.
 
 Praesent interdum, ligula ac tempor tristique, diam felis dignissim magna, sit
 amet consectetur nibh ipsum eget elit. Phasellus facilisis at dolor eu mollis.
